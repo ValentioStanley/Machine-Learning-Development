@@ -1,7 +1,8 @@
+# Image Pet Recognition
 # Valentio Stanley Dashboard
-## I implemented a project using visual studio code and setup environment
+### I implemented a project using visual studio code and setup environment
 
-### Setup Environment to install Libraries - Command Prompt/Terminal
+#### Setup Environment to install Libraries - Command Prompt/Terminal
 ```
 python -m venv env
 .env\Scripts\activate
